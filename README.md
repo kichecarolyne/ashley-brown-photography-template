@@ -4,7 +4,8 @@
 
 Medical Pager is a live chat application tailored for the medical industry. It facilitates real-time communication between medical professionals, enabling quick collaboration and information exchange in a secure environment.
 
-Technologies Used
+**Technologies Used**
+
 React: Frontend development framework for building user interfaces.
 
 Node.js: JavaScript runtime environment for server-side development.
@@ -15,7 +16,8 @@ Stream: A service for building scalable and reliable chat functionality.
 
 GitHub: Version control platform for collaborative software development.
 
-Features
+
+**Features**
 Real-time Chat: Instant messaging functionality for seamless communication.
 
 Secure Environment: Ensures privacy and confidentiality of medical discussions.
@@ -28,13 +30,17 @@ Scalable Architecture: Built with scalability in mind to accommodate growing use
 
 Integration: Easily integrates with existing medical software and systems.
 
-Getting Started
+
+**Getting Started**
+
 To get started with Medical Pager:
 
 Clone the repository: git clone https://github.com/kichecarolyne/medical-pager-clone-chat-app.git
-Navigate to the project directory: cd medical-pager-chat-app
 
-Install dependencies:
+Navigate to the project directory: cd medical-pager-clone-chat-app
+
+
+**Install dependencies:**
 
 For frontend: cd client && npm install
 
