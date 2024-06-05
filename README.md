@@ -18,6 +18,7 @@ GitHub: Version control platform for collaborative software development.
 
 
 **Features**
+
 Real-time Chat: Instant messaging functionality for seamless communication.
 
 Secure Environment: Ensures privacy and confidentiality of medical discussions.
