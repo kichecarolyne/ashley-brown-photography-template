@@ -47,7 +47,8 @@ For frontend: cd client && npm install
 
 For backend: cd server && npm install
 
-Start the development server:
+
+**Start the development server:**
 
 For frontend: cd client && npm start
 
